@@ -46,7 +46,7 @@ https://clashnodev2ray.github.io/2024/5/20240518.txt
 
 clash订阅链接：
 
-https://clashnode.github.io/2024/5/20240518.yaml
+https://clashnodev2ray.github.io/2024/5/20240518.yaml
 
 温馨提示：
 
