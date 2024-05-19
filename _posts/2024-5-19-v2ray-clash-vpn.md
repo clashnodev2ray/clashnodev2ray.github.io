@@ -23,3 +23,35 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 
  ###  高速机场推荐1[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)不限设备数解锁流媒体、chatGPT注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+
+ ###  高速机场推荐2[【FCCloud】](https://v1.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)FCCloud全球节点，平民价格注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+
+ ### 高速机场推荐3[【快猫】](https://kuaimao.io/#/register?code=TTaIXhNs)季付送小火箭，流量多，优惠多而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=TTaIXhNs)
+
+ ###  高速机场推荐4 
+
+ [【轻云】](https://qingyun.world/#/register?code=C5zOLvph)
+
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+解锁奈飞迪士尼
+
+注册地址：[【轻云官网（点击注册）】](https://qingyun.world/#/register?code=C5zOLvph)
+
+##  订阅链接
+
+v2ray订阅链接:
+
+https://clashnodev2ray.github.io/2024/5/20240518.txt
+
+clash订阅链接：
+
+https://clashnodev2ray.github.io/2024/5/20240518.yaml
+
+温馨提示：
+
+本站提供的都是免费且公共的节点，稳定性与长时间连接速率无法与收费版的高速机场节点相提并论，不能奢望太多。
+
+注意你自己的网络环境（本地连接当中的DNS，手动配置一下：114.114.114.114，8.8.8.8，8.8.4.4或是其它公共的DNS。）
+
+如果某个网址无法代理访问，可切换到全局代理模式，一般可解决。
