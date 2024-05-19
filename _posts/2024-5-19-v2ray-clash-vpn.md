@@ -42,11 +42,11 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 v2ray订阅链接:
 
-https://clashnodev2ray.github.io/2024/5/20240518.txt
+https://clashnodev2ray.github.io/2024/5/20240519.txt
 
 clash订阅链接：
 
-https://clashnodev2ray.github.io/2024/5/20240518.yaml
+https://clashnodev2ray.github.io/2024/5/20240519.yaml
 
 温馨提示：
 
