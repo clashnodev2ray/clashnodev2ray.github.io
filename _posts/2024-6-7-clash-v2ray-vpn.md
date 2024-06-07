@@ -23,6 +23,25 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 
 
+###  高速机场推荐1
+
+[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+不限设备数
+
+解锁流媒体、chatGPT
+
+注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+
+###  高速机场推荐2
+
+[【FCCloud】](https://v1.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+
+FCCloud全球节点，最高速度，平民价格
+
+注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+
+###  高速机场推荐3
+
  [【轻云】](https://qingyun.world/#/regiQuantumul7=C5zOLvph)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
