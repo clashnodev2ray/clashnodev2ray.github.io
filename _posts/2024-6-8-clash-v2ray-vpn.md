@@ -69,7 +69,7 @@ https://clashnodev2ray.github.io/2024/6/20240608.yaml
 如果某个网址无法代理访问，可切换到全局代理模式，一般可解决。
 
 
-如需其他付费机场节点请前往[【机场巴巴】](https://kuaimao.io/#/register?code=TTaIXhNs)
+如需其他付费机场节点请前往[【机场巴巴】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
 支持5台设备， Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
