@@ -42,11 +42,11 @@ FCCloud全球节点，最高速度，平民价格
 
 ###  高速机场推荐3
 
-[【FCCloud】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 FCCloud全球节点，最高速度，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+注册地址：[【火烧云（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ###  高速机场推荐4
 
