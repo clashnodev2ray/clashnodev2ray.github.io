@@ -17,7 +17,15 @@ FCCloud全球节点，最高速度19.4，平民价格
 
 注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
 
-### 高速机场推荐3
+###  高速机场推荐3
+
+[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+
+FCCloud全球节点，最高速度19.4，平民价格
+
+注册地址：[【火烧云（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+
+### 高速机场推荐4
 
 [【快猫】](https://kuaimao.io/#/register?code=TTaIXhNs)
 
@@ -27,7 +35,7 @@ FCCloud全球节点，最高速度19.4，平民价格
 
 注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=TTaIXhNs)
 
-###  高速机场推荐4 
+###  高速机场推荐5 
 
  [【轻云】](https://qingyun.world/#/regiQuantumul7=C5zOLvph)
 
