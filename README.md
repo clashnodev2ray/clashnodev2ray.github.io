@@ -21,7 +21,7 @@ FCCloud全球节点，最高速度19.4，平民价格
 
 [【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
-FCCloud全球节点，最高速度19.4，平民价格
+FCCloud全球节点，平民价格
 
 注册地址：[【火烧云（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
