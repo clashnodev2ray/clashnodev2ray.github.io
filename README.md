@@ -21,7 +21,11 @@ FCCloud全球节点，最高速度19.4，平民价格
 
 [【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
-FCCloud全球节点，平民价格
+奈飞、迪士尼等流媒体解锁 - 畅享国际热门流媒体内容，不受地域限制。
+
+💡
+ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
+
 
 注册地址：[【火烧云（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
