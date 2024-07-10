@@ -10,7 +10,7 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 关注[「TG频道」](https://t.me/+Nz3-ybO4nwMzMDU1) 可第一时间获得节点更新消息
 
-本次更新共138个可用节点，最高速度25.65M/S。
+本次更新共139个可用节点，最高速度25.65M/S。
 
 覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本、东南亚、中东、南美等多个区域。
 
