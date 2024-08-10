@@ -62,11 +62,11 @@ FCCloud全球节点，最高速度，平民价格
 
 v2ray订阅链接:
 
-https://clashnodev2ray.github.io/2024/7/20240802.txt
+https://clashnodev2ray.github.io/2024/7/20240809.txt
 
 clash订阅链接：
 
-https://clashnodev2ray.github.io/2024/7/20240802.yaml
+https://clashnodev2ray.github.io/2024/7/20240809.yaml
 
 温馨提示：
 
