@@ -1,10 +1,10 @@
-# clash节点、v2rayj节点，免费clash节点、免费节点、免费梯子、免费vpn、vpn、v2ray、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新
+#2024年「12月08日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 clash节点、v2rayj节点，免费clash节点、免费节点、免费梯子、免费vpn、vpn、v2ray、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新
 ---
 
 
-## [TG账号商店 ](https://shop.idbb.me/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
-[点击进入TG账号商店 ](https://shop.idbb.me/)
+[点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
 
 ###  高速机场推荐1
