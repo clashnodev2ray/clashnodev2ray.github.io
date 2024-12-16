@@ -56,6 +56,10 @@ ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
 
 注册地址：[【轻云官网（点击注册）】](https://qingyun.world/#/register?code=C5zOLvph)
 
+## 进入下方网站查看订阅链接
+
+**https://clashnodev2ray.github.io/**
+
 ## 工具推荐
 
 | 工具         | Windows                                                      | MacOS                                                        | Android                                                      | IOS                                                          | 备注                                                |
@@ -76,7 +80,7 @@ ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
 | lantern      | [lantern](https://getlantern.org/)                           | [lantern](https://getlantern.org/)                           | [lantern](https://getlantern.org/)                           |                                                              |                                                     |
 | Tor Browser  | [Tor Browser](https://www.torproject.org/download/)          | [Tor Browser](https://www.torproject.org/download/)          | [Tor Browser](https://www.torproject.org/download/)          |                                                              | [官网](https://www.torproject.org/)                 |
 
-**https://clashnodev2ray.github.io/**
+
 
 
 
