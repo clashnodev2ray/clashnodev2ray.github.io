@@ -10,7 +10,8 @@ type: page
 {:toc}
 
 ## 关于我
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1530351503997410"
+     crossorigin="anonymous"></script>
 
 
 
