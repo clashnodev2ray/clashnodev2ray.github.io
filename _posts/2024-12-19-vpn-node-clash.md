@@ -28,21 +28,7 @@ topmost: true
 +   网上没有大量的黑料或是纠纷。
 +   如果同学们有符合条件的机场，欢迎评论或私信推荐！
 
-## [汇总](#汇总)
 
-点击名称可以看到详情
-
-| 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
-| --- | --- | --- | --- | --- | --- |
-| [ssone](#ssone) | [hello-ssone.com](https://hello-ssone.com/register?aff=0CNXS3Mx) | 1天 1G | 10元 100G/月 | ❌不支持 |
-| [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/?r=42350](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
-| [龙猫云](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=ra54cwhy) | 无 | 15元 100G/月 | ❌不支持 |
-| [Aladdin](#aladdin) | [https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=mN5ERopkOr) | 无 | 30元 390G/半年 | ❌不支持 | 暂无 |
-| [xxai](#xxai) | [xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG) | 无 | 16.9元 100G/月 | ✔支持 |
-| [青云梯](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=guLyIdy0) | 无 | 25元 150G/月 | ❌不支持 |
-| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [EF](#ef) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | 无 | 10 元 200G/月 | ❌不支持 |
 
 ## [简介](#简介)
 
