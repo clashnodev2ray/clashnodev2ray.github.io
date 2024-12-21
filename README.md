@@ -1,8 +1,8 @@
-#2024年「12月20日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 clash节点、v2rayj节点，免费clash节点、免费节点、免费梯子、免费vpn、vpn、v2ray、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新
+#2024年「12月21日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 clash节点、v2rayj节点，免费clash节点、免费节点、免费梯子、免费vpn、vpn、v2ray、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新
 ---
 
 
-## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
@@ -15,6 +15,23 @@
 解锁流媒体、chatGPT
 
 注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+
+* * *
+
+### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+
+注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+
+试用：
+
+最便宜的订阅有6元 60G/月。
+
+便宜是真便宜，9.9 元钱买1个月，每个月 140 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
+
+* * *
+
 
 ###  高速机场推荐2
 
