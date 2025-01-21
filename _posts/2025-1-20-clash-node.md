@@ -80,11 +80,11 @@ FCCloud全球节点，最高速度，平民价格
 
 v2ray订阅链接:
 
-https://a.nodeshare.xyz/uploads/2025/1/20250119.txt
+https://a.nodeshare.xyz/uploads/2025/1/20250120.txt
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/1/20250119.yaml
+https://a.nodeshare.xyz/uploads/2025/1/20250120.yaml
 
 温馨提示：
 
