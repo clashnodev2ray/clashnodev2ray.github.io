@@ -9,9 +9,9 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) |  | 10 元 200G/月 |  |
-| [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) |  | 10 元 200G/月 |  |
-| [FC](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) |  | 10 元 200G/月 |  |
+| [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
+
+
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -21,17 +21,17 @@
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) |  | 10 元 200G/月 |  |
+| [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 ###  高速机场推荐1
 
-[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+[【KK加速Cloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+注册地址：[【KK加速Cloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 * * *
 
@@ -52,11 +52,11 @@
 
 ###  高速机场推荐2
 
-[【FCCloud】](https://v1.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)
 
-FCCloud全球节点，最高速度19.4，平民价格
+西游云全球节点，最高速度19.4，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
 
 ###  高速机场推荐3
 
