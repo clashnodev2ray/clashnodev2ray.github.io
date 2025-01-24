@@ -22,9 +22,9 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 
 
- ###  高速机场推荐1[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)不限设备数解锁流媒体、chatGPT注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+ ###  高速机场推荐1[【KK加速Cloud】](https://kkjiasu.top/#/register?code=lhGhQflc)不限设备数解锁流媒体、chatGPT注册地址：[【KK加速Cloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
- ###  高速机场推荐2[【FCCloud】](https://v1.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)FCCloud全球节点，平民价格注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+ ###  高速机场推荐2[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)西游云全球节点，平民价格注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
 
  ### 高速机场推荐3[【快猫】](https://kuaimao.io/#/register?code=TTaIXhNs)季付送小火箭，流量多，优惠多而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=TTaIXhNs)
 

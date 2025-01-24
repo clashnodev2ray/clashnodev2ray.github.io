@@ -25,26 +25,26 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 ###  高速机场推荐1
 
-[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+[【KK加速Cloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+注册地址：[【KK加速Cloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ###  高速机场推荐2
 
-[【FCCloud】](https://v1.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)
 
-FCCloud全球节点，最高速度，平民价格
+西游云全球节点，最高速度，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
 
 ###  高速机场推荐3
 
 [【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
-FCCloud全球节点，最高速度，平民价格
+西游云全球节点，最高速度，平民价格
 
 注册地址：[【火烧云（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
@@ -77,7 +77,7 @@ https://clashnodev2ray.github.io/2024/7/20240718.yaml
 如果某个网址无法代理访问，可切换到全局代理模式，一般可解决。
 
 
-如需其他付费机场节点请前往[【机场巴巴】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+如需其他付费机场节点请前往[【机场巴巴】](https://kkjiasu.top/#/register?code=lhGhQflc)
 支持5台设备， Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
