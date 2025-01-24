@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  1月21日 2025年最新高速Clash/V2ray/Shadowrocket/SSR/VPN免费节点订阅链接
+title:  1月24日 2025年最新高速Clash/V2ray/Shadowrocket/SSR/VPN免费节点订阅链接
 tags:  [Clash,V2ray,clash,ss,ssr,trojan,vmess,免费节点,翻墙必备,免费节点,科学上网,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链,高速免费节点]
-description:  1月21日 SSR,clash节点,v2ray节点,每日更新,Shadowrocket,免费节点,高速机场推荐
+description:  1月24日 SSR,clash节点,v2ray节点,每日更新,Shadowrocket,免费节点,高速机场推荐
 keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果,小火箭,订阅链接,高速免费节点,翻墙必备,免费节点,科学上网, 
 ---
 * content
@@ -10,7 +10,7 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 关注[「TG频道」](https://t.me/+Nz3-ybO4nwMzMDU1) 可第一时间获得节点更新消息
 
-本次更新共253个可用节点，最高速度21.15M/S。
+本次更新共252个可用节点，最高速度20.13M/S。
 
 覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本、东南亚、中东、南美等多个区域。
 
@@ -80,11 +80,11 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 v2ray订阅链接:
 
-https://a.nodeshare.xyz/uploads/2025/1/20250121.txt
+https://a.nodeshare.xyz/uploads/2025/1/20250124.txt
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/1/20250121.yaml
+https://a.nodeshare.xyz/uploads/2025/1/20250124.yaml
 
 温馨提示：
 
