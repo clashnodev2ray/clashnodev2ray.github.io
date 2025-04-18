@@ -1,5 +1,5 @@
 ---
-# 2025年「4月17日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
+# 2025年「4月18日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 ---
 
 
@@ -9,7 +9,6 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -19,19 +18,11 @@
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 ###  高速机场推荐1
 
-[【KK加速Cloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
-不限设备数
 
-解锁流媒体、chatGPT
-
-注册地址：[【KK加速Cloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-* * *
 
 ### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
 
