@@ -35,7 +35,7 @@ topmost: true
 
 ### [KK加速](#ef)
 
-注册链接：[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[点击注册](https://tg-nav.github.io/nodeshare)
 
 
 试用：无
@@ -165,7 +165,7 @@ topmost: true
 
 ### [KK加速](#ef)
 
-注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[https://www.efcloud1.com](https://tg-nav.github.io/nodeshare)
 
 
 试用：无
