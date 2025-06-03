@@ -22,7 +22,7 @@ keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult 
 
 
 
- ###  高速机场推荐1[【KK加速Cloud】](https://kkjiasu.top/#/register?code=lhGhQflc)不限设备数解锁流媒体、chatGPT注册地址：[【KK加速Cloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+ ###  高速机场推荐1[【KK加速Cloud】](https://tg-nav.github.io/nodeshare)不限设备数解锁流媒体、chatGPT注册地址：[【KK加速Cloud官网（点击注册）】](https://tg-nav.github.io/nodeshare)
 
  ###  高速机场推荐2[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)西游云全球节点，平民价格注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
 
