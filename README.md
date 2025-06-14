@@ -1,5 +1,5 @@
 ---
-# 2025年「6月13日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
+# 2025年「6月14日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 ---
 
 
@@ -9,6 +9,7 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
+| [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 |✔支持  |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -20,6 +21,15 @@
 ###  高速机场推荐1
 
 
+ [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+试用:1天2G
+解锁奈飞迪士尼
+
+注册地址：[【88云加速（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+*  *   *
 
 ### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
 
