@@ -1,5 +1,5 @@
 ---
-# 2025年「6月18日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
+# 2025年「6月19日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 ---
 
 
@@ -24,6 +24,9 @@
  ### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+最便宜的订阅有10元 200G/月。
+
 试用:1天2G
 解锁奈飞迪士尼
 
