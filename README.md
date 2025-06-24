@@ -1,5 +1,5 @@
 ---
-# 2025年「6月23日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
+# 2025年「6月24日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 ---
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
