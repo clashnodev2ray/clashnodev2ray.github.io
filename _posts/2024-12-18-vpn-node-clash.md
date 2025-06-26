@@ -70,18 +70,6 @@ topmost: true
 
 * * *
 
-### [可乐云](#可乐云)
-
-注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-试用：
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
 
 
 
@@ -101,7 +89,7 @@ topmost: true
 
 ### [flybit](#flybit)
 
-注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[flybit.my](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -126,30 +114,6 @@ topmost: true
 * * *
 
 
-
-### [xxai](#xxai)
-
-注册链接：[xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG)
-
-
-最便宜的订阅有16.9元 100G/月。
-
-节点质量非常硬。全 IEPL 专线节点、低延迟游戏 & 直播专线、AI 工具 & 流媒体视频解锁。支持按流量购买。
-
-* * *
-
-### [青云梯](#青云梯)
-
-注册链接：[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=guLyIdy0)
-
-
-试用：无
-
-最便宜的订阅有25元 150G/月。
-
-机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
-
-* * *
 
 ### [冲上云霄](#冲上云霄)
 
