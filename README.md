@@ -1,5 +1,5 @@
 ---
-# 2025年「6月25日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
+# 2025年「6月26日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 ---
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
@@ -14,12 +14,12 @@
 | [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 |✔支持  |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=jWv0CnPO) | [点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO)|  | 9.9元 140G/月 |  |
-| [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
+| [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西瓜云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9元 120G/月 |  |
+| [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
+| [西瓜云](https://goudan.site/#/register?code=2mVFWPT1) | [点击进入](https://goudan.site/#/register?code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
-| [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
+| [火烧云](https://cn2.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn2.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 ###  高速机场推荐1
 
 
@@ -66,15 +66,15 @@
 
 ###  高速机场推荐2
 
-[【西游云】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+[【西游云】](https://goudan.site/#/register?code=2mVFWPT1)
 
-西游云全球节点，最高速度19.4，平民价格
+西游云全球节点，，平民价格
 
-注册地址：[【西游云（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=2mVFWPT1)
 
 ###  高速机场推荐3
 
-[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+[【火烧云】](https://cn2.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 奈飞、迪士尼等流媒体解锁 - 畅享国际热门流媒体内容，不受地域限制。
 
@@ -82,17 +82,17 @@
 ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
 
 
-注册地址：[【火烧云（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+注册地址：[【火烧云（点击注册）】](https://cn2huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐4
 
-[【快猫】](https://kuaimao.io/#/register?code=TTaIXhNs)
+[【快猫】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=TTaIXhNs)
+注册地址：[【快猫官网（点击注册）】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 ###  高速机场推荐5 
 
