@@ -6,7 +6,7 @@ on:
   # 定时触发
   schedule:
     # 每6小时获取一次
-    - cron: '0 */6 * * *'
+    - cron: '0 */12 * * *'
 
 jobs:
   update-date:
@@ -22,11 +22,11 @@ jobs:
           current_date=$(date +'%Y-%m-%d')
 
           # 检查 README.md 是否包含创建和修改日期
-          if ! grep -q "created:" README.md; then
-            echo "created: $current_date" | cat - README.md > temp && mv temp README.md
+          if ! grep -q "# created:" README.md; then
+            echo "# created: $current_date" | cat - README.md > temp && mv temp README.md
           else
             # 将日期更新放到文件顶部
-            sed -i "1s/^/created: $current_date\n/" README.md
+            sed -i "1s/^/# created: $current_date\n/" README.md
           fi
 
       - name: Commit and push changes
