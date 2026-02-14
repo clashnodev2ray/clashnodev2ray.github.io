@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  12月28日 2025年最新高速Clash/V2ray/Shadowrocket/SSR/VPN免费节点订阅链接
+title:  2月14日 2026年最新高速Clash/V2ray/Shadowrocket/SSR/VPN免费节点订阅链接
 tags:  [Clash,V2ray,clash,ss,ssr,trojan,vmess,免费节点,翻墙必备,免费节点,科学上网,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链,高速免费节点]
-description:  12月28日 SSR,clash节点,v2ray节点,每日更新,Shadowrocket,免费节点,高速机场推荐
+description:  2月14日 SSR,clash节点,v2ray节点,每日更新,Shadowrocket,免费节点,高速机场推荐
 keywords: Clash,v2ray,V2ray,clash,ss,ssr,trojan,vmess,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果,小火箭,订阅链接,高速免费节点,翻墙必备,免费节点,科学上网, 
 Categories:  免费节点,科学上网
 ---
@@ -18,7 +18,7 @@ Categories:  免费节点,科学上网
 * * *
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
-本次更新共137个可用节点，最高速度16.2M/S。
+本次更新共239个可用节点，最高速度12.1M/S。
 
 覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本、东南亚、中东、南美等多个区域。
 
@@ -44,7 +44,6 @@ Categories:  免费节点,科学上网
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [火烧云](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 
 ***********************1
@@ -110,14 +109,6 @@ Categories:  免费节点,科学上网
 
 注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=2mVFWPT1)
 
-###  高速机场推荐3
-
-[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
-
-西游云全球节点，最高速度，平民价格
-
-注册地址：[【火烧云（点击注册）】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
-
 ###  高速机场推荐4
 
  [【轻云】](https://qingyun.world/#/regiQuantumul7=C5zOLvph)
@@ -132,11 +123,11 @@ Categories:  免费节点,科学上网
 
 v2ray订阅链接:
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2025/12/20251228.txt
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260214.txt
 
 clash订阅链接：
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2025/12/20251228.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260214.yaml
 
 温馨提示：
 
