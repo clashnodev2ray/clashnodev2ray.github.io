@@ -1,13 +1,13 @@
-## 更新时间 2026-02-21
+## 更新时间 2026-02-22
 ## 最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 免费节点每日更新
 
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！!!
 
 
-## [TG账号商店 ](https://goso002.com?from=32977) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+## [果书账号商店 ](https://goso002.com?from=32977) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
-[点击进入TG账号商店 ](https://goso002.com?from=32977)
+[点击进入果书账号商店 ](https://goso002.com?from=32977)
 
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
