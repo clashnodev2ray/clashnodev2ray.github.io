@@ -10,17 +10,24 @@ hosts:
 proxies:
   - {name: "[VMess] 亚太地区 V2CROSS.COM", server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "[VMess] 亚太地区 V2CROSS.COM 2", server: 103.143.238.196, port: 21879, type: vmess, uuid: 1e1a6b3b-14b2-4ae4-9aa9-880ba5dff6fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /vmesswss}, udp: true}
+  - {name: "[VMess] 亚太地区 V2CROSS.COM 3", server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: teams.microsoft.com}}, udp: true}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0, headers: {Host: br.gy.youxuan-1.66688888.xyz}}, udp: true}
+  - {name: "[SS] 🇨🇳 台湾省花莲县 中华电信", server: r3mrcg0011499tl.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
   - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true}
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true}
-  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM", server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 2", server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 3", server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM", server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 2", server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 3", server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 4", server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 5", server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 6", server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 7", server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 8", server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 9", server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.109420.xyz}}, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.109420.xyz}}, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true}
@@ -33,7 +40,6 @@ proxies:
   - {name: "[VMess] 🇺🇸 _US_美国_4", server: wnd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd3.shabijichang.com}}, udp: true}
   - {name: "[VMess] 🇺🇸 _US_美国_5", server: 104.21.75.246, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sbl2.shabijichang.com}}, udp: true}
   - {name: "[SS] 🇺🇸 美国 DXC Technology", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true}
-  - {name: "[SS] 🇺🇸 美国 DXC Technology 2", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
 proxy-groups:
   - name: 🚀 全球互联
     type: select
@@ -49,9 +55,11 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 亚太地区 V2CROSS.COM 2"
+      - "[VMess] 亚太地区 V2CROSS.COM 3"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
+      - "[SS] 🇨🇳 台湾省花莲县 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -60,6 +68,11 @@ proxy-groups:
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 7"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 8"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -72,7 +85,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
       - "[SS] 🇺🇸 美国 DXC Technology"
-      - "[SS] 🇺🇸 美国 DXC Technology 2"
   - name: 🎥 Netflix
     type: select
     proxies:
@@ -83,9 +95,11 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 亚太地区 V2CROSS.COM 2"
+      - "[VMess] 亚太地区 V2CROSS.COM 3"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
+      - "[SS] 🇨🇳 台湾省花莲县 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -94,6 +108,11 @@ proxy-groups:
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 7"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 8"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -106,7 +125,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
       - "[SS] 🇺🇸 美国 DXC Technology"
-      - "[SS] 🇺🇸 美国 DXC Technology 2"
   - name: 📹 Youtube
     type: select
     proxies:
@@ -117,9 +135,11 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 亚太地区 V2CROSS.COM 2"
+      - "[VMess] 亚太地区 V2CROSS.COM 3"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
+      - "[SS] 🇨🇳 台湾省花莲县 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -128,6 +148,11 @@ proxy-groups:
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 7"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 8"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -140,7 +165,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
       - "[SS] 🇺🇸 美国 DXC Technology"
-      - "[SS] 🇺🇸 美国 DXC Technology 2"
   - name: ▶️ Disney+
     type: select
     proxies:
@@ -151,9 +175,11 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 亚太地区 V2CROSS.COM 2"
+      - "[VMess] 亚太地区 V2CROSS.COM 3"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
+      - "[SS] 🇨🇳 台湾省花莲县 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -162,6 +188,11 @@ proxy-groups:
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 7"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 8"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -174,7 +205,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
       - "[SS] 🇺🇸 美国 DXC Technology"
-      - "[SS] 🇺🇸 美国 DXC Technology 2"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -186,9 +216,11 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 亚太地区 V2CROSS.COM 2"
+      - "[VMess] 亚太地区 V2CROSS.COM 3"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
+      - "[SS] 🇨🇳 台湾省花莲县 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -197,6 +229,11 @@ proxy-groups:
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 7"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 8"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -209,7 +246,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
       - "[SS] 🇺🇸 美国 DXC Technology"
-      - "[SS] 🇺🇸 美国 DXC Technology 2"
   - name: 📲 Telegram
     type: select
     proxies:
@@ -224,6 +260,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
+      - "[SS] 🇨🇳 台湾省花莲县 中华电信"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -235,9 +272,11 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 亚太地区 V2CROSS.COM 2"
+      - "[VMess] 亚太地区 V2CROSS.COM 3"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
+      - "[SS] 🇨🇳 台湾省花莲县 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -246,6 +285,11 @@ proxy-groups:
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 7"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 8"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -258,7 +302,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
       - "[SS] 🇺🇸 美国 DXC Technology"
-      - "[SS] 🇺🇸 美国 DXC Technology 2"
   - name: 🇭🇰 香港
     type: select
     proxies:
@@ -286,11 +329,11 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
       - "[SS] 🇺🇸 美国 DXC Technology"
-      - "[SS] 🇺🇸 美国 DXC Technology 2"
   - name: 🇹🇼 台湾
     type: select
     proxies:
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
+      - "[SS] 🇨🇳 台湾省花莲县 中华电信"
   - name: 🇸🇬 新加坡
     type: select
     proxies:
