@@ -12,8 +12,7 @@
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
 | [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  	 | 10元 300G/月 |✔支持  |
-| [星辰vpn](https://t.xcvpn.us/#/register?code=jWv0CnPO) | [点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO)|  | 9.9元 140G/月 |  |
-| [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
+| [星辰vpn](https://c.kilxs.cn/#/register?code=jWv0CnPO) | [点击进入](https://c.kilxs.cn/#/register?code=jWv0CnPO)|  | 9.9元 140G/月 |  |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://c.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://c.xiyou666.xyz/?code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
@@ -64,9 +63,9 @@
 最大的缺点就是太便宜了
 
 * * *
-### [星辰VPN](https://t.xcvpn.us/#/register?code=jWv0CnPO)
+### [星辰VPN](https://c.kilxs.cn/#/register?code=jWv0CnPO)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO)
+注册链接：[点击进入](https://c.kilxs.cn/#/register?code=jWv0CnPO)
 
 
 
