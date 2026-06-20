@@ -49,19 +49,6 @@
 
 * * *
 
-### [冰灵加速器](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
-
-注册链接：[点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
-
-：
-
-最便宜的订阅有5.9元 39G/月。
-
-便宜是真便宜，8.9 元钱买1个月，每个月 129 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-* * *
 ### [星辰VPN](https://c.kilxs.cn/#/register?code=jWv0CnPO)
 
 注册链接：[点击进入](https://c.kilxs.cn/#/register?code=jWv0CnPO)
