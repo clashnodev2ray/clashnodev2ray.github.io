@@ -68,13 +68,13 @@ Categories:  免费节点,科学上网
 
 *  *   *
 
-### [冰灵加速器](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
+### [绿牛云](https://www.futizi.net/?code=UQjFiejp)
 
-注册链接：[点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
+注册链接：[点击进入](https://www.futizi.net/?code=UQjFiejp)
 
 
 
-便宜是真便宜，8.9 元钱买1个月，每个月 129 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
 
@@ -127,7 +127,7 @@ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20260814.yaml
 如果某个网址无法代理访问，可切换到全局代理模式，一般可解决。
 
 
-如需其他付费机场节点请前往[【极速云】](https://w1.lypyf.com/#/register?code=6fZu9IIm)
+如需其他付费机场节点请前往[【极速云】](https://88cloud.pages.dev/#/register?code=6fZu9IIm)
 支持5台设备， Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
