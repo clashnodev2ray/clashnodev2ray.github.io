@@ -11,9 +11,6 @@ Categories:  免费节点,科学上网
 {:toc}
 
 ## [海外社交账号商店 ](http://shop.tgaaaa.co)---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售[点击进入购买 ](http://shop.tgaaaa.co)
-
-
- 
  
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
