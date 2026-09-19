@@ -169,7 +169,7 @@ API中转（AI API 中转服务）是指通过第三方聚合平台，将 OpenAI
 如果某个网址无法代理访问，可切换到全局代理模式，一般可解决。
 
 
-如需其他付费机场节点请前往[【极速云】](https://88cloud.pages.dev/#/register?code=6fZu9IIm)
+如需其他付费机场节点请前往[【极速云】](https://qq.88cloud.dpdns.org/#/register?code=6fZu9IIm)
 支持5台设备， Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼

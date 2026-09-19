@@ -35,7 +35,7 @@ Categories:  免费节点,科学上网
 
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [88云加速](https://88cloud.pages.dev/#/register?code=n4KLfZJb) | [点击进入](https://88cloud.pages.dev/#/register?code=n4KLfZJb) | 	 | 10元 300G/月 | ✔支持 |
+| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | 	 | 10元 300G/月 | ✔支持 |
 | [星辰vpn](https://c.xcvpn.me/#/register?code=jWv0CnPO) | [点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) | 3G | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
@@ -47,13 +47,13 @@ Categories:  免费节点,科学上网
 ***********************1
 
 
- [【88云加速】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
+ [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 最便宜套餐10元/300G
 解锁奈飞迪士尼
 
-注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
+注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 
 *  *   *
