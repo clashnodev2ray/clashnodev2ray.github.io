@@ -1,34 +1,136 @@
-# name属性用来指定这个工作流的名字
-name: Download The SUBSCRIBE
+name: Auto Create Today Post & Update README
 
 on:
-  push:
-    branches:
-      - main
-  schedule:   
-    - cron: '* */12 * * *'   #国际标准时间，北京时间+8，即下午1点钟
-
-
+  workflow_dispatch: # 允许在 GitHub 后台手动触发
+  schedule:
+    - cron: '0 1 * * *' # UTC 时间每天 1:00 等于上海时间（北京时间）每天 9:00
 
 jobs:
-  run-csjs:
+  create-post:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@main  #采用main分支下的
-      - name: Download the subscribe
-        run: |
-          sh ./run.sh
-      - name: Commit Changes
-        run: |
-         git config --global user.email flik@92coco.cn
-         git config --global user.name Flik
-         git add .
-         git commit -m"由github actions推送,日期:`date`"
-         git pull --rebase
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
         with:
-          github_token: ${{ secrets.TOKEN }}
+          python-version: '3.10'
+
+      - name: 执行脚本生成文章并更新 README
+        run: |
+          python - << 'EOF'
+          import os
+          import glob
+          import datetime
+          import re
+          import random
+
+          posts_dir = "_posts"
+          if not os.path.exists(posts_dir):
+              print(f"Directory {posts_dir} not found.")
+              exit(1)
+
+          # 获取当天的日期
+          today = datetime.date.today()
+          today_year = today.strftime('%Y')
+          today_month_no_zero = str(today.month)
+          today_month_zero = today.strftime('%m')
+          today_day_no_zero = str(today.day)
+          today_day_zero = today.strftime('%d')
+          
+          # 新文件名及正文统一使用的无补零日期格式 (例如: 2026-9-20)
+          today_file_date_str = f"{today_year}-{today_month_no_zero}-{today_day_no_zero}"
+          today_standard_date_str = f"{today_year}-{today_month_zero}-{today_day_zero}"
+
+          target_chinese_date = f"{today_year}年{today_month_no_zero}月{today_day_no_zero}日"
+          target_short_chinese_date = f"{today_month_no_zero}月{today_day_no_zero}日"
+          target_slash_date = f"{today_year}/{today_month_no_zero}/{today_day_no_zero}"
+          target_compact_date = f"{today_year}{today_month_zero}{today_day_zero}"
+
+          # ----------------- 1. 处理 _posts 目录下的最新文章 -----------------
+          all_files = glob.glob(os.path.join(posts_dir, "*.md")) + glob.glob(os.path.join(posts_dir, "*.markdown"))
+          
+          valid_files = []
+          for file in all_files:
+              basename = os.path.basename(file)
+              if re.match(r'^\d{4}-\d{1,2}-\d{1,2}', basename):
+                  valid_files.append((basename, file))
+
+          if valid_files:
+              # 按文件名降序排序，获取最新的文件
+              valid_files.sort(key=lambda x: x[0], reverse=True)
+              latest_basename, latest_file = valid_files[0]
+              print(f"Latest file found: {latest_file}")
+
+              # 提取旧文件名中的日期
+              date_match = re.match(r'^(\d{4})-(\d{1,2})-(\d{1,2})', latest_basename)
+              old_year, old_month, old_day = date_match.groups()
+              old_date_dash_1 = f"{old_year}-{old_month}-{old_day}"
+              old_date_dash_2 = f"{old_year}-{int(old_month):02d}-{int(old_day):02d}"
+
+              if old_date_dash_1 == today_file_date_str or old_date_dash_2 == today_file_date_str:
+                  print("The latest post is already dated today. Skipping creation, but will check README.")
+              else:
+                  # 生成新文件名并构建路径
+                  new_basename = latest_basename.replace(old_date_dash_1, today_file_date_str, 1)
+                  if new_basename == latest_basename:
+                      new_basename = latest_basename.replace(old_date_dash_2, today_file_date_str, 1)
+                  
+                  new_file = os.path.join(posts_dir, new_basename)
+
+                  if os.path.exists(new_file):
+                      print(f"File {new_file} already exists.")
+                  else:
+                      # 读取旧文件内容
+                      with open(latest_file, 'r', encoding='utf-8') as f:
+                        content = f.read()
+
+                      # 日期替换
+                      new_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, content)
+                      new_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_chinese_date, new_content)
+                      new_content = re.sub(r'\b\d{1,2}月\d{1,2}[日号]', target_short_chinese_date, new_content)
+                      new_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date, new_content)
+                      new_content = re.sub(r'\b20\d{2}\d{2}\d{2}\b', target_compact_date, new_content)
+
+                      # 随机替换测速数字
+                      def random_speed(match):
+                          val = round(random.uniform(10.0, 35.0), 1)
+                          suffix = match.group(2)
+                          return f"{val}{suffix}"
+
+                      new_content = re.sub(r'\b\d+(\.\d+)?([Mm][Bb]?/[Ss]|[Mm][Bb][Pp][Ss])\b', random_speed, new_content)
+
+                      # 写入新文件
+                      with open(new_file, 'w', encoding='utf-8') as f:
+                          f.write(new_content)
+
+                      print(f"Successfully created new post: {new_file} with randomized speed and date")
+
+          # ----------------- 2. 自动更新根目录下的 README.md -----------------
+          readme_path = "README.md"
+          if os.path.exists(readme_path):
+              print(f"Found {readme_path}, updating dates...")
+              with open(readme_path, 'r', encoding='utf-8') as f:
+                  readme_content = f.read()
+
+              readme_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, readme_content)
+              readme_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_chinese_date, readme_content)
+              readme_content = re.sub(r'\b\d{1,2}月\d{1,2}[日号]', target_short_chinese_date, readme_content)
+              readme_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date, readme_content)
+              readme_content = re.sub(r'\b20\d{2}\d{2}\d{2}\b', target_compact_date, readme_content)
+
+              with open(readme_path, 'w', encoding='utf-8') as f:
+                  f.write(readme_content)
+              print("Successfully updated dates in README.md")
+          else:
+              print("README.md not found in root directory, skipping.")
+          EOF
+
+      - name: 提交并推送修改
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily auto-update posts and README"
           branch: main
-          force_with_lease: true
-          directory: .
