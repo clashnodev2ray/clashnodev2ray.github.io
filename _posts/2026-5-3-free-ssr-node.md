@@ -40,7 +40,7 @@ Categories:  免费节点,科学上网
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) | 3G | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |
+| [西游云](https://d.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://d.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |
 
 
 ***********************1

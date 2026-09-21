@@ -42,7 +42,7 @@ Categories:  免费节点,科学上网
 | [冲上云霄](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [加速啦](https://jiasu.la/?r=42350) | [点击进入](https://jiasu.la/?r=42350) |  | 10元 60G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
+| [西游云](https://d.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://d.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
 | [火烧云](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
