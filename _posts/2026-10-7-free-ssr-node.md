@@ -117,11 +117,11 @@ Categories:  免费节点,科学上网
 
 v2ray订阅链接:
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20261007.txt
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/10/20261007.txt
 
 clash订阅链接：
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20261007.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/10/20261007.yaml
 
 
 ***
