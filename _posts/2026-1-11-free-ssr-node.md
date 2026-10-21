@@ -44,7 +44,7 @@ Categories:  免费节点,科学上网
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://d.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://d.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [稳连云](https://www.8891888.xyz/#/register?code=tsTYVbC0) | [点击进入](https://www.8891888.xyz/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [火烧云](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
+| [火烧云](https://www.8891888.xyz/#/register?code=BP3fNkQd) | [点击进入](https://www.8891888.xyz/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 
 ***********************1
@@ -112,11 +112,11 @@ Categories:  免费节点,科学上网
 
 ###  高速机场推荐3
 
-[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
+[【火烧云】](https://www.8891888.xyz/#/register?code=iYoHYy6g)
 
 西游云全球节点，最高速度，平民价格
 
-注册地址：[【火烧云（点击注册）】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
+注册地址：[【火烧云（点击注册）】](https://www.8891888.xyz/#/register?code=iYoHYy6g)
 
 ###  高速机场推荐4
 
