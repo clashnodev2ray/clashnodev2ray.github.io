@@ -14,7 +14,7 @@ Categories:  免费节点,科学上网
  
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
-本次更新共258个可用节点，最高速度12.31.6M/S。
+本次更新共158个可用节点，最高速度12.3M/S。
 
 覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本、东南亚、中东、南美等多个区域。
 
@@ -117,11 +117,11 @@ Categories:  免费节点,科学上网
 
 v2ray订阅链接:
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20261111.txt
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/11/20261111.txt
 
 clash订阅链接：
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20261111.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/11/20261111.yaml
 
 
 ***
